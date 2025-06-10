@@ -1,0 +1,213 @@
+epoch,loss
+1,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       114.54083252)
+2,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       73.10593414)
+3,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       63.26532745)
+4,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       57.02464676)
+5,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       50.74940109)
+6,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       47.85042191)
+7,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       43.48307800)
+8,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       40.96963882)
+9,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       37.60123825)
+10,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       35.90726089)
+11,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       33.01310730)
+12,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       31.31356049)
+13,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       29.61679840)
+14,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       28.74613571)
+15,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       27.96895790)
+16,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       27.05347443)
+17,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       25.68344307)
+18,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       24.71810722)
+19,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       24.34225273)
+20,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       23.48536682)
+21,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       21.63374138)
+22,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       20.81862831)
+23,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       20.51791000)
+24,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       20.03598595)
+25,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       19.07126236)
+26,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       18.69234276)
+27,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       18.46681404)
+28,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       17.96969795)
+29,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       17.54689789)
+30,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       17.74850464)
+31,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       16.49007225)
+32,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       15.60829163)
+33,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       15.26666737)
+34,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       14.88407516)
+35,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       14.81200409)
+36,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       13.98912621)
+37,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       13.97705460)
+38,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       13.80043125)
+39,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       13.84477615)
+40,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       13.22057915)
+41,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       12.76390362)
+42,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       12.36187458)
+43,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       11.84436607)
+44,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       12.12523270)
+45,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       11.67546463)
+46,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       11.38998127)
+47,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       11.54293346)
+48,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       11.18923950)
+49,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       11.10527325)
+50,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       11.09335041)
+51,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       10.44869232)
+52,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.82291889)
+53,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.67305374)
+54,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.65536785)
+55,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.85142326)
+56,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.50549698)
+57,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.19437218)
+58,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.28056812)
+59,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.09670925)
+60,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       9.37089920)
+61,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       8.43839550)
+62,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       8.08997631)
+63,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       8.17947674)
+64,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       8.19907570)
+65,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       7.82903004)
+66,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       7.87375116)
+67,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       7.83122015)
+68,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       7.65904951)
+69,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       7.80361986)
+70,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       7.71635532)
+71,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       7.10892057)
+72,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       7.07887125)
+73,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.95789433)
+74,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.84839487)
+75,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.78997469)
+76,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.82881451)
+77,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.72843599)
+78,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.69192457)
+79,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.60444593)
+80,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.60273170)
+81,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.14730120)
+82,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.90299797)
+83,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       6.00959349)
+84,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.86253500)
+85,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.69883728)
+86,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.73003101)
+87,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.76305151)
+88,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.57039070)
+89,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.69695520)
+90,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.81407309)
+91,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.42170763)
+92,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.19851542)
+93,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.03097725)
+94,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.95572138)
+95,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.93846655)
+96,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.03679371)
+97,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.92999935)
+98,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       5.00480509)
+99,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.83947563)
+100,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.74446678)
+101,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.69717550)
+102,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.52096701)
+103,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.53492165)
+104,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.39800501)
+105,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.36644602)
+106,Tensor(shape=[], dtype=float32, place=Place(gpu:0), stop_gradient=False,
+       4.38508368)
