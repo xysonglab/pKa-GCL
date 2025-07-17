@@ -65,7 +65,7 @@ This dataset, obtained from the publication at [https://doi.org/10.1021/acs.jctc
 ### 2. Data Preprocessing
 
     # Molecular Feature Extraction
-    python convert_to_sdf.py --dataset [Dataset_name] --algo [Optimization_algorithm] --process [Number_of_processes]
+    python preprocess.py --dataset [Dataset_name] --algo [Optimization_algorithm] --process [Number_of_processes]
 
 ## Model Training Process
 
